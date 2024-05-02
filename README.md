@@ -3,5 +3,5 @@ Solutions to problems from [Project Euler](https://projecteuler.net/about) in Py
 To-do list:
 - [x] Problem 35
 - [x] Problem 36
-- [ ] Problem 37
+- [x] Problem 37
 - [ ] Problem 38
