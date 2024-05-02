@@ -4,4 +4,8 @@ To-do list:
 - [x] Problem 35
 - [x] Problem 36
 - [x] Problem 37
-- [ ] Problem 38
+- [x] Problem 38
+- [ ] Problem 39
+- [ ] Problem 40
+- [ ] Problem 41
+- [ ] Problem 42
